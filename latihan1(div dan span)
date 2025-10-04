@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Div dan Span</title>
+</head>
+<body>
+    <div id="header" style="background-color:red">
+        <h1>WEBSITE LATIHAN 1</h1>
+    </div>
+
+    <div id="menu" style="background-color:yellow">
+        <ul>
+            <li><a href="home1.html">Home</a></li>
+            <li><a href="profil.html">About</a></li>
+            <li><a href="https://web.whatsapp.com/">Contact</a></li>
+        </ul>
+    </div>
+
+    <div id="content" style="background-color:greenyellow">
+        <h2>Artikel 1</h2>
+        <p>Di waktu luang, saya sering mencoba berbagai proyek kreatif seperti membuat aplikasi sederhana atau belajar bahasa pemrograman baru. 
+            Saya percaya bahwa belajar itu tidak pernah berhenti, jadi saya selalu bersemangat untuk menambah wawasan dan kemampuan saya. 
+            Selain itu, saya juga suka berinteraksi dengan komunitas programmer untuk berbagi ilmu dan pengalaman.
+
+Selain teknologi, saya juga senang traveling dan mengenal budaya baru dari berbagai tempat. 
+Saya yakin pengalaman ini memperkaya perspektif hidup dan membantu saya menjadi pribadi yang lebih terbuka dan kreatif.
+Senang bisa berbagi cerita dan mengenal teman-teman baru di sini!</p>
+    </div>
+
+    <div id="sidebar" style="background-color:cyan">
+        <h3>Artikel <span style="background-color:lightblue">Terbaru</span></h3>
+        <ul>
+            <li><a href="https://spxzzer.blogspot.com/2016/11/makalah-html.html">makalah-html</a></li>
+            <li><a href="https://www.petanikode.com/html-dasar/">belajar html dasar</a></li>
+            <li><a href="https://www.w3schools.com/html/default.asp">w3schools</a></li>
+        </ul>
+    </div>
+
+    <div id="footer" style="background-color:gainsboro">
+        <p>Footer - Copyright 20xx</p>
+    </div>
+</body>
+</html>
